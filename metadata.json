@@ -1,0 +1,8 @@
+{
+  "name": "StudyMate AI - Universal Smart Learning",
+  "description": "A comprehensive AI-powered educational platform for students from Class 10 to Post-Graduation, featuring secure auth and personalized AI tutoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
